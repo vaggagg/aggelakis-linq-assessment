@@ -1,0 +1,277 @@
+{
+  "jobs": [
+    {
+      "id": "3",
+      "jobTitle": "Data Analyst",
+      "yearsOfExperience": "53",
+      "salary": "1300",
+      "skills": [
+        {
+          "id": "7",
+          "name": "SQL"
+        },
+        {
+          "id": "8",
+          "name": "Data Visualization"
+        },
+        {
+          "id": "9",
+          "name": "Python"
+        },
+        {
+          "id": "18",
+          "name": "Product Roadmapping"
+        }
+      ],
+      "createdDate": "2022-05-21"
+    },
+    {
+      "id": "5",
+      "jobTitle": "DevOps Engineere",
+      "yearsOfExperience": "7",
+      "salary": "5000",
+      "skills": [
+        {
+          "id": "13",
+          "name": "Kubernetes"
+        },
+        {
+          "id": "14",
+          "name": "Docker"
+        },
+        {
+          "id": "15",
+          "name": "CI/CD Pipelines"
+        },
+        {
+          "id": "16",
+          "name": "Agile Project Management"
+        }
+      ],
+      "createdDate": "2020-11-09"
+    },
+    {
+      "id": "6",
+      "jobTitle": "Product Managere",
+      "yearsOfExperience": "9",
+      "salary": "130000",
+      "skills": [
+        {
+          "id": "16",
+          "name": "Agile Project Management"
+        },
+        {
+          "id": "17",
+          "name": "Scrum"
+        },
+        {
+          "id": "18",
+          "name": "Product Roadmapping"
+        }
+      ],
+      "createdDate": "2019-07-18"
+    },
+    {
+      "id": "7",
+      "jobTitle": "Database Administrator",
+      "yearsOfExperience": 15,
+      "salary": 98000,
+      "skills": [
+        {
+          "id": "19",
+          "name": "Database Optimization"
+        },
+        {
+          "id": "20",
+          "name": "MySQL"
+        },
+        {
+          "id": "21",
+          "name": "Oracle DB"
+        }
+      ],
+      "createdDate": "2018-03-23"
+    },
+    {
+      "id": "8",
+      "jobTitle": "Network Security Specialist",
+      "yearsOfExperience": 12,
+      "salary": 115000,
+      "skills": [
+        {
+          "id": "22",
+          "name": "Cybersecurity"
+        },
+        {
+          "id": "23",
+          "name": "Vulnerability Assessment"
+        },
+        {
+          "id": "24",
+          "name": "Network Defense"
+        }
+      ],
+      "createdDate": "2016-10-31"
+    },
+    {
+      "id": "9",
+      "jobTitle": "Hardware Engineer",
+      "yearsOfExperience": 20,
+      "salary": 110000,
+      "skills": [
+        {
+          "id": "25",
+          "name": "Hardware Troubleshooting"
+        },
+        {
+          "id": "26",
+          "name": "FPGA Design"
+        },
+        {
+          "id": "27",
+          "name": "ASIC Design"
+        }
+      ],
+      "createdDate": "2014-06-15"
+    },
+    {
+      "id": "10",
+      "jobTitle": "test3",
+      "yearsOfExperience": "33",
+      "salary": "23333",
+      "skills": [
+        {
+          "id": "2",
+          "name": "Spring Boot"
+        },
+        {
+          "id": "3",
+          "name": "Microservices"
+        }
+      ],
+      "createdDate": "2024-05-02"
+    }
+  ],
+  "skills": [
+    {
+      "id": "1",
+      "name": "Java"
+    },
+    {
+      "id": "2",
+      "name": "Spring Boot"
+    },
+    {
+      "id": "3",
+      "name": "Microservices"
+    },
+    {
+      "id": "4",
+      "name": "JavaScript"
+    },
+    {
+      "id": "5",
+      "name": "React"
+    },
+    {
+      "id": "6",
+      "name": "CSS"
+    },
+    {
+      "id": "7",
+      "name": "SQL"
+    },
+    {
+      "id": "8",
+      "name": "Data Visualization"
+    },
+    {
+      "id": "9",
+      "name": "Python"
+    },
+    {
+      "id": "10",
+      "name": "User Research"
+    },
+    {
+      "id": "11",
+      "name": "Wireframing"
+    },
+    {
+      "id": "12",
+      "name": "Prototyping"
+    },
+    {
+      "id": "13",
+      "name": "Kubernetes"
+    },
+    {
+      "id": "14",
+      "name": "Docker"
+    },
+    {
+      "id": "15",
+      "name": "CI/CD Pipelines"
+    },
+    {
+      "id": "16",
+      "name": "Agile Project Management"
+    },
+    {
+      "id": "17",
+      "name": "Scrum"
+    },
+    {
+      "id": "18",
+      "name": "Product Roadmapping"
+    },
+    {
+      "id": "19",
+      "name": "Database Optimization"
+    },
+    {
+      "id": "20",
+      "name": "MySQL"
+    },
+    {
+      "id": "21",
+      "name": "Oracle DB"
+    },
+    {
+      "id": "22",
+      "name": "Cybersecurity"
+    },
+    {
+      "id": "23",
+      "name": "Vulnerability Assessment"
+    },
+    {
+      "id": "24",
+      "name": "Network Defense"
+    },
+    {
+      "id": "25",
+      "name": "Hardware Troubleshooting"
+    },
+    {
+      "id": "26",
+      "name": "FPGA Design"
+    },
+    {
+      "id": "27",
+      "name": "ASIC Design"
+    },
+    {
+      "id": "28",
+      "name": "Cloud Architecture"
+    },
+    {
+      "id": "29",
+      "name": "AWS"
+    },
+    {
+      "id": "30",
+      "name": "Azure"
+    }
+  ]
+}

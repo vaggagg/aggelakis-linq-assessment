@@ -1,0 +1,17 @@
+{
+    "name": "linq-frontend-assessment",
+    "version": "1.0.0",
+    "description": "Crafted to let your skills shine through practical written responses and coding exercises!",
+    "main": "index.js",
+    "scripts": {
+        "json-server": "npx json-server data/db.json"
+    },
+    "author": "linQ",
+    "license": "ISC",
+    "devDependencies": {
+        "json-server": "^1.0.0-alpha.23"
+    },
+    "dependencies": {
+        "sass": "^1.75.0"
+    }
+}

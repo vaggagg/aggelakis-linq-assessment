@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create a new job</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+    <div class="job-create-container">
+        <div class="header-container">
+            <div class="logo-container">
+                <img src="../images/clogo.svg" alt="logo" class="logo"> <!-- This is the logo -->
+            </div>
+            <a href='job-listing.html' class="title f22 f700 dark mainTitle">Create a new job</a>
+        </div>
+        <div class="main-error-container hidden"></div>
+        <div class="main-content">
+            <div class="menu-container">
+                <div class="text-menu">HERE LIES THE MENU</div>
+            </div>
+            <div class="center-container second">
+                <div class="loading-container">
+                    <iframe src="https://lottie.host/embed/003761f2-dc0e-4b82-8fdd-9163249c2306/Qf4rvpNydr.json"></iframe>
+                    <div class="loading-text f22 f700 dark">Playing elevator music</div>
+                </div>
+                <div class="error-container"></div>
+                <div class="job-create-details hidden">
+                    <div class="job-form">
+                        <div class="left-container">
+                        <div class="input-container">
+                            <div class="label f14">Job Title</div>
+                            <input type="text" class="input jobTitle" value="">
+                        </div>
+                        <div class="input-container">
+                            <div class="label f14">Years of experience</div>
+                            <input type="text" class="input years" value="">
+                        </div>
+                        <div class="input-container no-padding">
+                            <div class="label f14">Salary</div>
+                            <input type="text" class="input salary" value="">
+                        </div>
+                    </div>
+                    <div class="right-container">
+                        <div class="list-container">
+                            <div class="label f14">Skills</div>
+                            <ul class="skill-list"></div>
+                        </div>
+                    </div>
+                    <div class='button-container'>
+                        <div class="button lightblue" id="save_button">Create job</div>
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+<script src="job-create.js"></script>
+</html>
